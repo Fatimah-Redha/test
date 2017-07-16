@@ -16,6 +16,7 @@ table, th, td {<br />    border: 1px solid black;<br />    border-collapse: coll
 <th>رقم الجوال</th>
 <th>التخصص</th>
 <th>الدورات</th>
+<th>تحديث السجل المدني</th>
 <th>تحديث الجوال</th>
 </tr>
 <?
